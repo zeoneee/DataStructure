@@ -1,0 +1,80 @@
+﻿  heap.cpp
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.h(22,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.h(50): message : 컴파일되는 클래스 템플릿 인스턴스화 'Heap<DT>'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.h(29,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.h(30,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.cpp(15,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.cpp(32,1): warning C5043: 'Heap<DT>::insert': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.h(28): message : 'Heap<DT>::insert' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.cpp(49,1): warning C5043: 'Heap<DT>::removeMax': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.h(30): message : 'Heap<DT>::removeMax' 선언을 참조하십시오.
+  ossim.cpp
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.h(22,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.h(50): message : 컴파일되는 클래스 템플릿 인스턴스화 'Heap<DT>'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.h(29,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.h(30,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.cpp(15,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.cpp(32,1): warning C5043: 'Heap<DT>::insert': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.h(28): message : 'Heap<DT>::insert' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.cpp(49,1): warning C5043: 'Heap<DT>::removeMax': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.h(30): message : 'Heap<DT>::removeMax' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\ptyqueue.cpp(4,43): warning C4812: 사용되지 않는 선언 스타일입니다. 대신 'PtyQueue<DT>::PtyQueue'을(를) 사용하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\ossim.cpp(42,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\ossim.cpp(49,9): warning C4101: 'numArrivals' :참조되지 않은 지역 변수입니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\ptyqueue.cpp(4,43): warning C4812: 사용되지 않는 선언 스타일입니다. 대신 'PtyQueue<TaskData>::PtyQueue'을(를) 사용하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\ptyqueue.cpp(4): message : 클래스 템플릿 멤버 함수 'PtyQueue<TaskData>::PtyQueue(int)'을(를) 컴파일하는 중입니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\ossim.cpp(44): message : 컴파일되는 함수 템플릿 인스턴스화 'PtyQueue<TaskData>::PtyQueue(int)'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\ossim.cpp(44): message : 컴파일되는 클래스 템플릿 인스턴스화 'PtyQueue<TaskData>'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.cpp(32,1): warning C5043: 'Heap<DT>::insert': 예외 사양이 이전 선언과 일치하지 않습니다.
+          with
+          [
+              DT=TaskData
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.h(28): message : 'Heap<DT>::insert' 선언을 참조하십시오.
+          with
+          [
+              DT=TaskData
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.cpp(32): message : 클래스 템플릿 멤버 함수 'void Heap<DT>::insert(const DT &) throw(std::logic_error)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              DT=TaskData
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\ptyqueue.cpp(11): message : 컴파일되는 함수 템플릿 인스턴스화 'void Heap<DT>::insert(const DT &) throw(std::logic_error)'에 대한 참조를 확인하세요.
+          with
+          [
+              DT=TaskData
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.cpp(49,1): warning C5043: 'Heap<DT>::removeMax': 예외 사양이 이전 선언과 일치하지 않습니다.
+          with
+          [
+              DT=TaskData
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.h(30): message : 'Heap<DT>::removeMax' 선언을 참조하십시오.
+          with
+          [
+              DT=TaskData
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.cpp(49): message : 클래스 템플릿 멤버 함수 'DT Heap<DT>::removeMax(void) throw(std::logic_error)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              DT=TaskData
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\ptyqueue.cpp(17): message : 컴파일되는 함수 템플릿 인스턴스화 'DT Heap<DT>::removeMax(void) throw(std::logic_error)'에 대한 참조를 확인하세요.
+          with
+          [
+              DT=TaskData
+          ]
+  ptyqueue.cpp
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.h(22,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.h(50): message : 컴파일되는 클래스 템플릿 인스턴스화 'Heap<DT>'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.h(29,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.h(30,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.cpp(15,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.cpp(32,1): warning C5043: 'Heap<DT>::insert': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.h(28): message : 'Heap<DT>::insert' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.cpp(49,1): warning C5043: 'Heap<DT>::removeMax': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\heap.h(30): message : 'Heap<DT>::removeMax' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\in_lab\ptyqueue.cpp(4,43): warning C4812: 사용되지 않는 선언 스타일입니다. 대신 'PtyQueue<DT>::PtyQueue'을(를) 사용하십시오.
+  코드를 생성하고 있습니다...
+  in_lab.vcxproj -> C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab09.Heap\Debug\in_lab.exe

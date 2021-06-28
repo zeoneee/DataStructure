@@ -1,0 +1,102 @@
+﻿  person.cpp
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(50,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(89): message : 컴파일되는 클래스 템플릿 인스턴스화 'List<DT>'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(52,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(54,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(63,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(65,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(67,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(69,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(71,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(78,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(38,1): warning C5043: 'List<DT>::insert': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(49): message : 'List<DT>::insert' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(62,1): warning C5043: 'List<DT>::remove': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(51): message : 'List<DT>::remove' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(108,1): warning C5043: 'List<DT>::replace': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(53): message : 'List<DT>::replace' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(164,1): warning C5043: 'List<DT>::gotoBeginning': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(62): message : 'List<DT>::gotoBeginning' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(173,1): warning C5043: 'List<DT>::gotoEnd': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(64): message : 'List<DT>::gotoEnd' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(185,1): warning C5043: 'List<DT>::gotoNext': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(66): message : 'List<DT>::gotoNext' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(204,1): warning C5043: 'List<DT>::gotoPrior': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(68): message : 'List<DT>::gotoPrior' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(229,1): warning C5043: 'List<DT>::getCursor': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(70): message : 'List<DT>::getCursor' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(271,51): warning C5043: 'List<DT>::insertBefore': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(77): message : 'List<DT>::insertBefore' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(38,1): warning C5043: 'List<std::string>::insert': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(49): message : 'List<std::string>::insert' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(38): message : 클래스 템플릿 멤버 함수 'void List<std::string>::insert(const DT &) throw(std::bad_alloc)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              DT=std::string
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\person.cpp(29): message : 컴파일되는 함수 템플릿 인스턴스화 'void List<std::string>::insert(const DT &) throw(std::bad_alloc)'에 대한 참조를 확인하세요.
+          with
+          [
+              DT=std::string
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\person.cpp(8): message : 컴파일되는 클래스 템플릿 인스턴스화 'List<std::string>'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(62,1): warning C5043: 'List<std::string>::remove': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(51): message : 'List<std::string>::remove' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(62): message : 클래스 템플릿 멤버 함수 'void List<std::string>::remove(void) throw(std::logic_error)'을(를) 컴파일하는 중입니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\person.cpp(36): message : 컴파일되는 함수 템플릿 인스턴스화 'void List<std::string>::remove(void) throw(std::logic_error)'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(164,1): warning C5043: 'List<std::string>::gotoBeginning': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(62): message : 'List<std::string>::gotoBeginning' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(164): message : 클래스 템플릿 멤버 함수 'void List<std::string>::gotoBeginning(void) throw(std::logic_error)'을(를) 컴파일하는 중입니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\person.cpp(33): message : 컴파일되는 함수 템플릿 인스턴스화 'void List<std::string>::gotoBeginning(void) throw(std::logic_error)'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(185,1): warning C5043: 'List<std::string>::gotoNext': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(66): message : 'List<std::string>::gotoNext' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(185): message : 클래스 템플릿 멤버 함수 'bool List<std::string>::gotoNext(void) throw(std::logic_error)'을(를) 컴파일하는 중입니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\person.cpp(34): message : 컴파일되는 함수 템플릿 인스턴스화 'bool List<std::string>::gotoNext(void) throw(std::logic_error)'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(229,1): warning C5043: 'List<std::string>::getCursor': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(70): message : 'List<std::string>::getCursor' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(229): message : 클래스 템플릿 멤버 함수 'DT &List<DT>::getCursor(void) throw(std::logic_error) const'을(를) 컴파일하는 중입니다.
+          with
+          [
+              DT=std::string
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\person.cpp(35): message : 컴파일되는 함수 템플릿 인스턴스화 'DT &List<DT>::getCursor(void) throw(std::logic_error) const'에 대한 참조를 확인하세요.
+          with
+          [
+              DT=std::string
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(38,1): warning C5043: 'List<Person>::insert': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(49): message : 'List<Person>::insert' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(38): message : 클래스 템플릿 멤버 함수 'void List<Person>::insert(const DT &) throw(std::bad_alloc)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              DT=Person
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\person.cpp(100): message : 컴파일되는 함수 템플릿 인스턴스화 'void List<Person>::insert(const DT &) throw(std::bad_alloc)'에 대한 참조를 확인하세요.
+          with
+          [
+              DT=Person
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\person.cpp(81): message : 컴파일되는 클래스 템플릿 인스턴스화 'List<Person>'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(164,1): warning C5043: 'List<Person>::gotoBeginning': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(62): message : 'List<Person>::gotoBeginning' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(164): message : 클래스 템플릿 멤버 함수 'void List<Person>::gotoBeginning(void) throw(std::logic_error)'을(를) 컴파일하는 중입니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\person.cpp(85): message : 컴파일되는 함수 템플릿 인스턴스화 'void List<Person>::gotoBeginning(void) throw(std::logic_error)'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(185,1): warning C5043: 'List<Person>::gotoNext': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(66): message : 'List<Person>::gotoNext' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(185): message : 클래스 템플릿 멤버 함수 'bool List<Person>::gotoNext(void) throw(std::logic_error)'을(를) 컴파일하는 중입니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\person.cpp(87): message : 컴파일되는 함수 템플릿 인스턴스화 'bool List<Person>::gotoNext(void) throw(std::logic_error)'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(229,1): warning C5043: 'List<Person>::getCursor': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.h(70): message : 'List<Person>::getCursor' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(229): message : 클래스 템플릿 멤버 함수 'DT &List<DT>::getCursor(void) throw(std::logic_error) const'을(를) 컴파일하는 중입니다.
+          with
+          [
+              DT=Person
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\person.cpp(88): message : 컴파일되는 함수 템플릿 인스턴스화 'DT &List<DT>::getCursor(void) throw(std::logic_error) const'에 대한 참조를 확인하세요.
+          with
+          [
+              DT=Person
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(236): warning C4715: 'List<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::getCursor': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Project2\listlnk.cpp(236): warning C4715: 'List<Person>::getCursor': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Project2.vcxproj -> C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Project2\Debug\Project2.exe

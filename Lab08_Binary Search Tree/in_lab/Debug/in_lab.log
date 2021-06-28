@@ -1,0 +1,26 @@
+﻿  bstree.cpp
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab08_Binary Search Tree\in_lab\bstree.h(49,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab08_Binary Search Tree\in_lab\bstree.h(80): message : 컴파일되는 클래스 템플릿 인스턴스화 'BSTree<TE,KF>'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab08_Binary Search Tree\in_lab\bstree.cpp(33,1): warning C5043: 'BSTree<TE,KF>::insert': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab08_Binary Search Tree\in_lab\bstree.h(48): message : 'BSTree<TE,KF>::insert' 선언을 참조하십시오.
+  datebase.cpp
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab08_Binary Search Tree\in_lab\bstree.h(49,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab08_Binary Search Tree\in_lab\bstree.h(80): message : 컴파일되는 클래스 템플릿 인스턴스화 'BSTree<TE,KF>'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab08_Binary Search Tree\in_lab\bstree.cpp(33,1): warning C5043: 'BSTree<TE,KF>::insert': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab08_Binary Search Tree\in_lab\bstree.h(48): message : 'BSTree<TE,KF>::insert' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab08_Binary Search Tree\in_lab\datebase.cpp(63,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab08_Binary Search Tree\in_lab\bstree.cpp(33,1): warning C5043: 'BSTree<IndexEntry,int>::insert': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab08_Binary Search Tree\in_lab\bstree.h(48): message : 'BSTree<IndexEntry,int>::insert' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab08_Binary Search Tree\in_lab\bstree.cpp(33): message : 클래스 템플릿 멤버 함수 'void BSTree<IndexEntry,int>::insert(const TE &) throw(std::bad_alloc)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              TE=IndexEntry
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab08_Binary Search Tree\in_lab\datebase.cpp(83): message : 컴파일되는 함수 템플릿 인스턴스화 'void BSTree<IndexEntry,int>::insert(const TE &) throw(std::bad_alloc)'에 대한 참조를 확인하세요.
+          with
+          [
+              TE=IndexEntry
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab08_Binary Search Tree\in_lab\datebase.cpp(66): message : 컴파일되는 클래스 템플릿 인스턴스화 'BSTree<IndexEntry,int>'에 대한 참조를 확인하세요.
+  코드를 생성하고 있습니다...
+  in_lab.vcxproj -> C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab08_Binary Search Tree\Debug\in_lab.exe

@@ -1,0 +1,94 @@
+﻿  listdbl.cpp
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(50,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(82): message : 컴파일되는 클래스 템플릿 인스턴스화 'List<DT>'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(52,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(54,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(63,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(65,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(69,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(38,1): warning C5043: 'List<DT>::insert': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(49): message : 'List<DT>::insert' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(66,1): warning C5043: 'List<DT>::remove': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(51): message : 'List<DT>::remove' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(101,1): warning C5043: 'List<DT>::replace': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(53): message : 'List<DT>::replace' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(160,1): warning C5043: 'List<DT>::gotoBeginning': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(62): message : 'List<DT>::gotoBeginning' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(172,1): warning C5043: 'List<DT>::gotoEnd': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(64): message : 'List<DT>::gotoEnd' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(216,1): warning C5043: 'List<DT>::getCursor': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(68): message : 'List<DT>::getCursor' 선언을 참조하십시오.
+  test9.cpp
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(50,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(82): message : 컴파일되는 클래스 템플릿 인스턴스화 'List<DT>'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(52,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(54,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(63,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(65,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(69,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(38,1): warning C5043: 'List<DT>::insert': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(49): message : 'List<DT>::insert' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(66,1): warning C5043: 'List<DT>::remove': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(51): message : 'List<DT>::remove' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(101,1): warning C5043: 'List<DT>::replace': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(53): message : 'List<DT>::replace' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(160,1): warning C5043: 'List<DT>::gotoBeginning': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(62): message : 'List<DT>::gotoBeginning' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(172,1): warning C5043: 'List<DT>::gotoEnd': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(64): message : 'List<DT>::gotoEnd' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(216,1): warning C5043: 'List<DT>::getCursor': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(68): message : 'List<DT>::getCursor' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\test9.cpp(37,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(38,1): warning C5043: 'List<char>::insert': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(49): message : 'List<char>::insert' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(38): message : 클래스 템플릿 멤버 함수 'void List<char>::insert(const DT &) throw(std::bad_alloc)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              DT=char
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\test9.cpp(61): message : 컴파일되는 함수 템플릿 인스턴스화 'void List<char>::insert(const DT &) throw(std::bad_alloc)'에 대한 참조를 확인하세요.
+          with
+          [
+              DT=char
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\test9.cpp(38): message : 컴파일되는 클래스 템플릿 인스턴스화 'List<char>'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(66,1): warning C5043: 'List<char>::remove': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(51): message : 'List<char>::remove' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(66): message : 클래스 템플릿 멤버 함수 'void List<char>::remove(void) throw(std::logic_error)'을(를) 컴파일하는 중입니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\test9.cpp(67): message : 컴파일되는 함수 템플릿 인스턴스화 'void List<char>::remove(void) throw(std::logic_error)'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(101,1): warning C5043: 'List<char>::replace': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(53): message : 'List<char>::replace' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(101): message : 클래스 템플릿 멤버 함수 'void List<char>::replace(const DT &) throw(std::logic_error)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              DT=char
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\test9.cpp(73): message : 컴파일되는 함수 템플릿 인스턴스화 'void List<char>::replace(const DT &) throw(std::logic_error)'에 대한 참조를 확인하세요.
+          with
+          [
+              DT=char
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(160,1): warning C5043: 'List<char>::gotoBeginning': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(62): message : 'List<char>::gotoBeginning' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(160): message : 클래스 템플릿 멤버 함수 'void List<char>::gotoBeginning(void) throw(std::logic_error)'을(를) 컴파일하는 중입니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\test9.cpp(82): message : 컴파일되는 함수 템플릿 인스턴스화 'void List<char>::gotoBeginning(void) throw(std::logic_error)'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(172,1): warning C5043: 'List<char>::gotoEnd': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(64): message : 'List<char>::gotoEnd' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(172): message : 클래스 템플릿 멤버 함수 'void List<char>::gotoEnd(void) throw(std::logic_error)'을(를) 컴파일하는 중입니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\test9.cpp(87): message : 컴파일되는 함수 템플릿 인스턴스화 'void List<char>::gotoEnd(void) throw(std::logic_error)'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(216,1): warning C5043: 'List<char>::getCursor': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.h(68): message : 'List<char>::getCursor' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(216): message : 클래스 템플릿 멤버 함수 'DT List<DT>::getCursor(void) throw(std::logic_error) const'을(를) 컴파일하는 중입니다.
+          with
+          [
+              DT=char
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\test9.cpp(78): message : 컴파일되는 함수 템플릿 인스턴스화 'DT List<DT>::getCursor(void) throw(std::logic_error) const'에 대한 참조를 확인하세요.
+          with
+          [
+              DT=char
+          ]
+  코드를 생성하고 있습니다...
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(223): warning C4715: 'List<char>::getCursor': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Lab06. Double Linked List\listdbl.cpp(211): warning C4715: 'List<char>::gotoPrior': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Lab06. Double Linked List.vcxproj -> C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab06. Double Linked List\Debug\Lab06. Double Linked List.exe

@@ -1,0 +1,119 @@
+﻿  login.cpp
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(49,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(87): message : 컴파일되는 클래스 템플릿 인스턴스화 'List<DT>'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(51,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(53,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(62,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(64,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(66,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(68,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(70,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.cpp(35,1): warning C5043: 'List<DT>::insert': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(48): message : 'List<DT>::insert' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.cpp(60,1): warning C5043: 'List<DT>::remove': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(50): message : 'List<DT>::remove' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.cpp(91,1): warning C5043: 'List<DT>::replace': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(52): message : 'List<DT>::replace' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.cpp(138,1): warning C5043: 'List<DT>::gotoBeginning': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(61): message : 'List<DT>::gotoBeginning' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.cpp(149,1): warning C5043: 'List<DT>::gotoEnd': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(63): message : 'List<DT>::gotoEnd' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.cpp(162,1): warning C5043: 'List<DT>::gotoNext': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(65): message : 'List<DT>::gotoNext' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.cpp(177,1): warning C5043: 'List<DT>::gotoPrior': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(67): message : 'List<DT>::gotoPrior' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.cpp(199,1): warning C5043: 'List<DT>::getCursor': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(69): message : 'List<DT>::getCursor' 선언을 참조하십시오.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\hashtbl.h(21,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\hashtbl.h(34): message : 컴파일되는 클래스 템플릿 인스턴스화 'HashTbl<DT,KF>'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\hashtbl.cpp(15,71): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\login.cpp(28,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.cpp(35,1): warning C5043: 'List<DT>::insert': 예외 사양이 이전 선언과 일치하지 않습니다.
+          with
+          [
+              DT=Password
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(48): message : 'List<DT>::insert' 선언을 참조하십시오.
+          with
+          [
+              DT=Password
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.cpp(35): message : 클래스 템플릿 멤버 함수 'void List<DT>::insert(const DT &) throw(std::bad_alloc)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              DT=Password
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\hashtbl.cpp(18): message : 컴파일되는 함수 템플릿 인스턴스화 'void List<DT>::insert(const DT &) throw(std::bad_alloc)'에 대한 참조를 확인하세요.
+          with
+          [
+              DT=Password
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\hashtbl.cpp(6): message : 컴파일되는 클래스 템플릿 인스턴스화 'List<DT>'에 대한 참조를 확인하세요.
+          with
+          [
+              DT=Password
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\hashtbl.cpp(5): message : 클래스 템플릿 멤버 함수 'HashTbl<Password,std::string>::HashTbl(int)'을(를) 컴파일하는 중입니다.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\login.cpp(38): message : 컴파일되는 함수 템플릿 인스턴스화 'HashTbl<Password,std::string>::HashTbl(int)'에 대한 참조를 확인하세요.
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.cpp(138,1): warning C5043: 'List<DT>::gotoBeginning': 예외 사양이 이전 선언과 일치하지 않습니다.
+          with
+          [
+              DT=Password
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(61): message : 'List<DT>::gotoBeginning' 선언을 참조하십시오.
+          with
+          [
+              DT=Password
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.cpp(138): message : 클래스 템플릿 멤버 함수 'void List<DT>::gotoBeginning(void) throw(std::logic_error)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              DT=Password
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\hashtbl.cpp(49): message : 컴파일되는 함수 템플릿 인스턴스화 'void List<DT>::gotoBeginning(void) throw(std::logic_error)'에 대한 참조를 확인하세요.
+          with
+          [
+              DT=Password
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.cpp(162,1): warning C5043: 'List<DT>::gotoNext': 예외 사양이 이전 선언과 일치하지 않습니다.
+          with
+          [
+              DT=Password
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(65): message : 'List<DT>::gotoNext' 선언을 참조하십시오.
+          with
+          [
+              DT=Password
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.cpp(162): message : 클래스 템플릿 멤버 함수 'bool List<DT>::gotoNext(void) throw(std::logic_error)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              DT=Password
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\hashtbl.cpp(50): message : 컴파일되는 함수 템플릿 인스턴스화 'bool List<DT>::gotoNext(void) throw(std::logic_error)'에 대한 참조를 확인하세요.
+          with
+          [
+              DT=Password
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.cpp(199,1): warning C5043: 'List<DT>::getCursor': 예외 사양이 이전 선언과 일치하지 않습니다.
+          with
+          [
+              DT=Password
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.h(69): message : 'List<DT>::getCursor' 선언을 참조하십시오.
+          with
+          [
+              DT=Password
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.cpp(199): message : 클래스 템플릿 멤버 함수 'DT &List<DT>::getCursor(void) throw(std::logic_error) const'을(를) 컴파일하는 중입니다.
+          with
+          [
+              DT=Password
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\hashtbl.cpp(51): message : 컴파일되는 함수 템플릿 인스턴스화 'DT &List<DT>::getCursor(void) throw(std::logic_error) const'에 대한 참조를 확인하세요.
+          with
+          [
+              DT=Password
+          ]
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\login\listlnk.cpp(204): warning C4715: 'List<Password>::getCursor': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  login.vcxproj -> C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\LAB11. Sorting Searching Hash\Debug\login.exe

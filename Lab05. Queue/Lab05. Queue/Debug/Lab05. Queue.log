@@ -1,0 +1,4 @@
+﻿  queuearr.cpp
+  test6.cpp
+C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab05. Queue\Lab05. Queue\test6.cpp(17,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Lab05. Queue.vcxproj -> C:\Users\gram\Desktop\2020-2\자료구조와 실습\과제\Lab05. Queue\Debug\Lab05. Queue.exe
