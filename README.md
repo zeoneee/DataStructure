@@ -1,5 +1,4 @@
 # DataStructure
-### 2020-2
 
 ## project 1
 Everyone might have a friend who never forgets important dates in the lives of his or her friends. Let’s 
